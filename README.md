@@ -18,6 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunjeshmahajan&show_icons=true&locale=en&layout=compact" alt="kunjeshmahajan" /></p>
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kunjeshmahajan&show_icons=true&locale=en" alt="kunjeshmahajan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kunjeshmahajan&show_icons=true&locale=en" alt="kunjeshmahajan" /></p>
 
 
