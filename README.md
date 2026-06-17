@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunjesh Mahajan</h1>
-- 🔭 I’m currently working on **Autonomous Application Software**
 
-- 🌱 I’m currently learning **React.js and MYSQL**
+- Results-driven Software Engineer and MEC Expert with 4+ years of experience in application support, end-to-end Work Request delivery, process automation, and SQL development within the Telecom domain. I independently own the full lifecycle of complex WRs — from analysis and design to final implementation — across MEC, CRM, OMS Applications for AT&T Mexico.
+
+- Skilled in Groovy-based rules development, product/offer configuration, and building automation tools that eliminate manual workflows. I thrive in cross-functional collaboration with infrastructure, DBA, and client teams in Agile environments.
 
 
 
